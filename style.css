@@ -8,3 +8,6 @@ html, body {
     margin: 0 auto;
     text-align: center;
 }
+.main > p {
+    color: red;
+}
